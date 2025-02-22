@@ -11,6 +11,7 @@ is testing and *how* it's being tested
 """
 # Imports should be in PEP8 ordering (std library first, then third party
 # libraries then local imports).
+import sys
 from collections import defaultdict
 
 # Avoid wildcard * imports
